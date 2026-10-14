@@ -17,9 +17,9 @@
 
 ---
 
-<h2 align="center">
-  ABOUT ME <img src="https://media.tenor.com/A-dUfi3bkMoAAAAj/pato-juan.gif" width="32" height="32" style="vertical-align: middle;" alt="Pato Juan" />
-</h2>
+<h3 align="center">
+  ABOUT ME <img src="./assets/duck_transparent.gif" height="30" align="middle" style="vertical-align: middle;" alt="Pato Juan" />
+</h3>
 
 ---
 
@@ -32,9 +32,9 @@
 
 ---
 
-<h2 align="center">
-  TECH STACK <img src="./assets/tech_transparent.gif" width="35" height="35" style="vertical-align: middle;" alt="Tech Stack" />
-</h2>
+<h3 align="center">
+  TECH STACK <img src="./assets/tech_transparent.gif" height="30" align="middle" style="vertical-align: middle;" alt="Tech Stack" />
+</h3>
 
 ---
 
@@ -66,9 +66,9 @@
 
 ---
 
-<h2 align="center">
+<h3 align="center">
   GITHUB STATS
-</h2>
+</h3>
 <p align="center">
   <img src="./assets/stars_transparent.gif" width="180" alt="Stars" />
 </p>
