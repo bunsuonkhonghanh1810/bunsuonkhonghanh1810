@@ -18,7 +18,7 @@
 ---
 
 <h3 align="center">
-  ABOUT ME <img src="./assets/duck_transparent.gif" height="30" align="middle" style="vertical-align: middle;" alt="Pato Juan" />
+  ABOUT ME <img src="./assets/duck_transparent.gif" height="36" align="middle" style="vertical-align: middle;" alt="Pato Juan" />
 </h3>
 
 ---
@@ -33,7 +33,7 @@
 ---
 
 <h3 align="center">
-  TECH STACK <img src="./assets/tech_transparent.gif" height="30" align="middle" style="vertical-align: middle;" alt="Tech Stack" />
+  TECH STACK <img src="./assets/tech_transparent.gif" height="36" align="middle" style="vertical-align: middle;" alt="Tech Stack" />
 </h3>
 
 ---
