@@ -18,7 +18,9 @@
 ---
 
 <h3 align="center">
-  ABOUT ME <img src="./assets/duck_transparent.gif" height="36" align="middle" style="vertical-align: middle;" alt="Pato Juan" />
+  <span style="display: inline-flex; align-items: center; vertical-align: middle;">
+    ABOUT ME&nbsp;<img src="./assets/duck_transparent.gif" height="24" align="middle" style="vertical-align: middle;" alt="Pato Juan" />
+  </span>
 </h3>
 
 ---
@@ -33,7 +35,9 @@
 ---
 
 <h3 align="center">
-  TECH STACK <img src="./assets/tech_transparent.gif" height="36" align="middle" style="vertical-align: middle;" alt="Tech Stack" />
+  <span style="display: inline-flex; align-items: center; vertical-align: middle;">
+    TECH STACK&nbsp;<img src="./assets/tech_transparent.gif" height="22" align="middle" style="vertical-align: middle;" alt="Tech Stack" />
+  </span>
 </h3>
 
 ---
@@ -107,5 +111,5 @@
 ---
 
 <div align="center">
-  <sub>🌱 <i>"Continuous learning and steady progress."</i> 🌱</sub>
+  <sub>⚡ <i>"Stay curious, keep building, push boundaries."</i> ⚡</sub>
 </div>
